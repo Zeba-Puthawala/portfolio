@@ -119,7 +119,7 @@ export default function Projects() {
 
           <div className="project-actions">
             <a
-              href="https://github.com/Zeba-Puthawala/task-management-dashboard"
+              href="https://github.com/Zeba-Puthawala/portfolio"
               target="_blank"
               rel="noopener noreferrer"
               className="view-btn"
@@ -128,7 +128,7 @@ export default function Projects() {
             </a>
 
             <a
-              href="https://taskmanagementzap.netlify.app/"
+              href="https://zebaputhawalaportfolio.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="view-btn"
