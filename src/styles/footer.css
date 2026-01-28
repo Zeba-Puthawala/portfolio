@@ -1,0 +1,21 @@
+.footer {
+  width: 100%;
+  padding: 32px 0;
+  margin-top: 80px;
+  text-align: center;
+  background: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border);
+}
+
+.footer p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+.footer-name {
+  color: var(--lime);
+  font-weight: 500;
+}
